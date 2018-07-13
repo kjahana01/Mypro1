@@ -1,0 +1,39 @@
+.container{
+
+	border: 1px solid #000;
+	height: 150px;
+	width: 150px;
+	margin-top: 250px;
+	border-radius: 25px;
+box-shadow: 0 6px 25px ;
+background: linear-gradient(#6559ca, #bc318f 30%, #e33f5f 50%, #777638 70%, #fec66d 100%);
+}
+
+.insta{
+	border: 3px solid #fff;
+	height: 70px;
+	width: 70px;
+	border-radius: 15px;
+	margin-top: 40px;
+
+}
+
+.internal{
+
+	 border: 3px solid #fff;
+	 height: 30px;
+	 width: 30px;
+	 border-radius: 30px;
+	 margin-top: 20px;
+}
+
+.degree{
+	border: 1px solid #fff;
+	height: 5px;
+	width: 5px;
+	border-radius: 10px;
+	background: #fff;
+	margin-left: 30px;
+	margin-top: -10px
+	
+}
